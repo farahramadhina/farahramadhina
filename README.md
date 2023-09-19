@@ -1,6 +1,6 @@
 # 👋 Hi, I’m Farah Dhiya Ramadhina #
 
-### 🌸 I'm a second year information systems student at University of Indonesia ##
+### 🌸 I'm a second year Information Systems student at University of Indonesia ##
 ### 👀 I’m currently learning and interested in UI/UX Design ###
 I used github mainly for my university's assignments which is for basic programming (Dasar-Dasar Pemrograman 2) and web programming (Pemrograman Berbasis Platform) subjects.
 
